@@ -50,13 +50,13 @@ sidebar:
 career-profile:
   title: About Me # NO MODIFICAR
   summary: |
-    Lorem ipsum dolor sit amet, con sectetur adipiscing elit. Proin purus ligula, posuere semper est sed, pretium elementum massa. Duis et orci sed nunc. Maecenas at egestas mi. Nulla id augue a lectus condimentum scelerisque vitae sed dui.
+    I'm an IT Engineer with knowledge in technical support and programming. Always I'm looking or trying to learn something new related to technology because I'm passionate about it. I love the cats and travel.
 
 # Registra aquí tus estudios. Agrega o elimina según sea necesario
 educationcomplete:
-  - degree: Applied Scientist full-time at AWS
-    university: Germany
-    time: 2020 Oct - current
+  - degree: Information Technology Engineering
+    university: Universidad Tecnológica de Manzanillo
+    time: 2016 - 2020
     details: |
 
   - degree: PhD in Computer vision and Machine learning
@@ -146,23 +146,29 @@ skills:
   title: Technical Skills # NO MODIFICAR
 
   toolset:
+    - name: HTML
+      level: 60%
+      
+    - name: CSS
+      level: 60%
+      
     - name: Python
       level: 20%
 
-    - name: PyTorch
+    - name: Javascript
       level: 40%
 
-    - name: Tensorflow
-      level: 60%
-
-    - name: Caffe
-      level: 80%
-
-    - name: Matlab
-      level: 100%
-
-    - name: C/C++
+    - name: Ruby
       level: 40%
+
+    - name: Ruby on Rails
+      level: 40%
+
+    - name: Azure
+      level: 40%
+
+    - name: NodeJS
+      level: 20%
 
 # NO MODIFICAR
 footer: >
