@@ -7,19 +7,19 @@ sidebar:
   education: False # NO MODIFICAR
 
   # Profile information
-  name: Name LastName # Nombre y apellido
-  tagline: React Native Mobile Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
+  name: Jorge Eduardo Vargas Ramirez # Nombre y apellido
+  tagline: Ruby on Rails Web Developer # React Native Mobile Developer ó Ruby on Rails Web Developer Según sea el caso
   avatar: escudo.png # No modificar
 
   # Actualiza tus datos de contacto
-  email: name@brightcoders.com
-  phone:
+  email: eduardo.borisq@gmail.com
+  phone: +523141233802
   website: # No agregar http://
-  linkedin: brightcoders
-  github: brightcoders
+  linkedin: jorgeboris
+  github: jorgeboris
   gitlab:
   bitbucket:
-  twitter: '@BrightCoders'
+  twitter: '@JorgeeBoris'
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
